@@ -1,8 +1,8 @@
-# metro-buddy-data
+# raah-metro-data
 
 Static data + remote config for the **RaahMetro** app, served over GitHub Pages.
 
-Base URL: `https://nadeemqwerty.github.io/metro-buddy-data/`
+Base URL: `https://micromanplay.github.io/raah-metro-data/`
 
 ## `ads-config.json` — remote ads switch
 
@@ -10,7 +10,7 @@ Controls **Google AdMob** ads in the app **without an app update**. The app read
 this file in the background on launch and applies it on the **next** launch
 (stale-while-revalidate; works offline from the last cached value).
 
-Live URL: <https://nadeemqwerty.github.io/metro-buddy-data/ads-config.json>
+Live URL: <https://micromanplay.github.io/raah-metro-data/ads-config.json>
 
 ```json
 {
@@ -70,4 +70,4 @@ Every format has its own strict-boolean `enabled`. All toggles are **ANDed** wit
   `EXPO_PUBLIC_ADS_ENABLED=false` (requires a rebuild). Remote + build flags are
   ANDed — either one OFF means no ads.
 
-Full details: see `docs/ADMOB.md` in the [RaahMetro app repo](https://github.com/nadeemqwerty/metro-buddy).
+Full details: see `docs/ADMOB.md` in the [RaahMetro app repo](https://github.com/micromanplay/raah-metro).
