@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "adsEnabled": true,
+  "adsEnabled": false,
   "bannerRefreshSeconds": 0,
   "banner": { "enabled": true },
   "interstitial": { "enabled": true, "minIntervalSeconds": 60, "maxPerSession": 10 },
