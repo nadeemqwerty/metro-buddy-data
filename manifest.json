@@ -1,0 +1,34 @@
+{
+  "version": "2026-06-16",
+  "lastUpdated": "2026-06-16T00:00:00.000Z",
+  "source": "OpenStreetMap Overpass API (ODbL License)",
+  "updateUrl": "https://micromanplay.github.io/raah-metro-data",
+  "appUpdate": {
+    "latestVersionCode": 71,
+    "minVersionCode": 0,
+    "title": "Update available",
+    "message": "New metro fares, station names and routes are available. Update RaahMetro for the latest data.",
+    "playUrl": "https://play.google.com/store/apps/details?id=com.raahmetro.app"
+  },
+  "cities": {
+    "delhi": { "version": "2.1.2", "stationCount": 244 },
+    "bengaluru": { "version": "1.1.1", "stationCount": 83 },
+    "hyderabad": { "version": "1.1.1", "stationCount": 56 },
+    "pune": { "version": "1.1.3", "stationCount": 29 },
+    "kolkata": { "version": "1.0.2", "stationCount": 55 },
+    "mumbai": { "version": "1.1.1", "stationCount": 76 },
+    "chennai": { "version": "1.1.3", "stationCount": 41 },
+    "surat": { "version": "1.1.2", "stationCount": 38 },
+    "ahmedabad": { "version": "1.1.1", "stationCount": 53 },
+    "kochi": { "version": "1.0.2", "stationCount": 25 },
+    "nagpur": { "version": "1.1.2", "stationCount": 37 },
+    "lucknow": { "version": "1.0.2", "stationCount": 21 },
+    "noida": { "version": "1.1.2", "stationCount": 21 },
+    "kanpur": { "version": "1.0.2", "stationCount": 14 },
+    "jaipur": { "version": "1.0.2", "stationCount": 11 },
+    "gurgaon": { "version": "1.0.2", "stationCount": 11 },
+    "rrts": { "version": "1.1.1", "stationCount": 15 },
+    "meerut": { "version": "1.1.1", "stationCount": 12 },
+    "indore": { "version": "1.0.2", "stationCount": 5 }
+  }
+}
